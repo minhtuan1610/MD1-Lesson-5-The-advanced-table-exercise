@@ -1,0 +1,24 @@
+body {
+    background-color: orange;
+}
+
+th, td {
+    width: 40px;
+    height: 40px;
+}
+
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.light {
+    background-color: white;
+}
+
+.dark {
+    background-color: black;
+}

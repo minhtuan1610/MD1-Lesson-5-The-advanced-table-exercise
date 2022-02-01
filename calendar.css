@@ -1,0 +1,47 @@
+h3 {
+    color: blue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: orange;
+    color: white;
+}
+
+#red1 {
+    background-color: red;
+}
+
+#blue1 {
+    background-color: blue;
+}
+
+#red2, #red3, #red4, #red5, #red6, #red7 {
+    color: red;
+}
+
+#blue2, #blue3, #blue4, #blue5, #blue6, #blue7 {
+    color: blue;
+}
+
+sub {
+    color: black;
+    font-size: 10px;
+}
+
+td {
+    height: 30px;
+    width: 60px;
+}
+
+.days {
+    border: 1px solid black;
+}
